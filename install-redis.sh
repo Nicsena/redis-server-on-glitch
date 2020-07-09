@@ -16,6 +16,12 @@ wget https://raw.githubusercontent.com/Nicsena/redis-server-on-glitch-assets/mas
 chmod +x redis-cli
 chmod +x redis-server
 
+# Redis Database Path
+cd
+mkdir redis
+cd redis
+mkdir database
+
 # Redis Configuration
 cd
 cat > /app/.redis <<- EOM
