@@ -13,3 +13,6 @@ dump.rdb
 
 # glitch.com project assets
 .glitch-assets
+
+# node
+shrinkwrap.yaml
