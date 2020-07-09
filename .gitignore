@@ -2,7 +2,7 @@
 .rediscli_history
 .redis
 .data/
-.dump.rdb
+dump.rdb
 
 # wget
 .wget-hsts
