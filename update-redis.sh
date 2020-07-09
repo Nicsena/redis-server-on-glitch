@@ -32,6 +32,10 @@ echo "Update is 85% Completed."
 
 # Update Files - Get Latest Version of the Update Script - Project will refresh shortly after
 cd /tmp/
+
+# Delete previous update.sh if exists
+rm -rf update.sh
+
 wget -q https://raw.githubusercontent.com/Nicsena/redis-server-on-glitch-assets/master/files/update.sh -O update.sh
 chmod +x update.sh
 bash /tmp/update.sh &
