@@ -31,6 +31,6 @@ appendonly yes
 daemonize yes
 EOM
 
-# Start Server
+# Start Project
 cd
 ./start-redis.sh

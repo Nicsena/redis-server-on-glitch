@@ -1,0 +1,3 @@
+dir /app/.data
+appendonly yes
+daemonize yes

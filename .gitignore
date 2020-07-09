@@ -1,6 +1,5 @@
 # Redis Stuff (Redis Client History and Redis File)
 .rediscli_history
-.redis
 .data/
 dump.rdb
 
