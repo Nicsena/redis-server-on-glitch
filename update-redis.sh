@@ -1,13 +1,6 @@
 # Start Updating Process
 echo "Started Update Process - This may take a while to do."
 cd
-
-
-# REMOVE THIS IF YOU HAVE YOUR OWN README.MD FILE, OR ELSE, THE UPDATER WILL OVERWRITE YOUR OWN README.MD.
-wget -q https://raw.githubusercontent.com/Nicsena/redis-server-on-glitch-assets/master/files/README.md -o README.md
-
-
-# Go to the bin path inside .local to do updating of redis files.
 cd .local
 cd bin
 
