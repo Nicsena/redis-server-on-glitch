@@ -1,4 +1,0 @@
-mkdir /app/.data
-dir /app/.data
-appendonly yes
-daemonize yes

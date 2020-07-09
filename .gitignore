@@ -1,1 +1,15 @@
+# Redis Stuff (Redis Client History and Redis File)
 .rediscli_history
+.redis
+.data/
+.dump.rdb
+
+# wget
+.wget-hsts
+
+# dotenv environment variables file
+.env
+.env.test
+
+# glitch.com project assets
+.glitch-assets
